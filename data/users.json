@@ -1,0 +1,47 @@
+[
+{
+	"id" : 1,
+	"name" : "Kevin Jefferson Chadwick",
+	"login" : "kevin.jefferson",
+	"password" : "kevin.jefferson-1234",
+	"registerDate" : 1487591786000,
+	"color" : "#3498db",
+	"alias" : "Kevin"
+},
+{
+	"id" : 2,
+	"name" : "Sheldon Odran Hunter",
+	"login" : "sheldon.odran",
+	"password" : "sheldon.odran-1234",
+	"registerDate" : 1487591786000,
+	"color" : "#f1c40f",
+	"alias" : "Shelly"
+},
+{
+	"id" : 3,
+	"name" : "Wade Braden Lesley",
+	"login" : "wade.braden",
+	"password" : "wade.braden-1234",
+	"registerDate" : 1487591786000,
+	"color" : "#1abc9c",
+	"alias" : "Wade"
+},
+{
+	"id" : 4,
+	"name" : "Dexter Jesse McCormick",
+	"login" : "dexter.jesse",
+	"password" : "dexter.jesse-1234",
+	"registerDate" : 1487591786000,
+	"color" : "#2ecc71",
+	"alias" : "Dexter"
+},
+{
+	"id" : 5,
+	"name" : "Daniel Turiño",
+	"login" : "daniel.turino",
+	"password" : "daniel.turino-1234",
+	"registerDate" : 1487591786000,
+	"color" : "#8e44ad",
+	"alias" : "Dani"
+}
+]

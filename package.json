@@ -1,0 +1,23 @@
+{
+    "name": "backbone-chat-service",
+    "description": "Sample service for backbone-chat",
+    "version": "1.0.0",
+    "author": "Daniel Turiño <daniel.anido17@gmail.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dani17b/backbone-chat-service.git"
+    },
+    "license": "MIT License",
+    "bugs": {
+        "url": "https://github.com/dani17b/backbone-chat-service/issues"
+    },
+    "homepage": "https://github.com/dani17b/backbone-chat-service",
+    "private": false,
+    "dependencies": {
+        "express": "*",
+        "body-parser": "*",
+        "jsonschema": "*",
+        "orderly": "*",
+        "cors": "*"
+    }
+}
